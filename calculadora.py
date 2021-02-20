@@ -24,3 +24,5 @@ soma(num1, num2)
 subtrai(num1, num2)
 multiplica(num1, num2)
 divide(num1, num2)
+
+print("Fim.")
